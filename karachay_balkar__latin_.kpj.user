@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KeymanDeveloperProjectUser>
+  <ViewState>
+    <tab>3</tab>
+    <showhelp>1</showhelp>
+    <path>C:\Users\Daulet\Documents\Keyman Developer\Projects\karachay_balkar__latin_\karachay_balkar__latin_.kpj</path>
+  </ViewState>
+  <FileStates>
+    <FileState>
+      <ID>id_97b58896c88f85b5d4e8919d23154534</ID>
+      <FullPath>C:\Users\Daulet\Documents\Keyman Developer\Projects\karachay_balkar__latin_\source\karachay_balkar__latin_.kmn</FullPath>
+      <IDEState>
+        <LayoutDisplay102Key>0</LayoutDisplay102Key>
+        <DebugDefaultFont>1</DebugDefaultFont>
+        <DebugFont>Consolas|-9|   |0</DebugFont>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+      <Debug>False</Debug>
+    </FileState>
+    <FileState>
+      <ID>id_686e82168687341e44d52606b6cd8bd7</ID>
+      <FullPath>C:\Users\Daulet\Documents\Keyman Developer\Projects\karachay_balkar__latin_\source\karachay_balkar__latin_.kps</FullPath>
+      <IDEState>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+    </FileState>
+    <FileState>
+      <ID>id_ede98e4633e239f933cbfd1f4e1b766c</ID>
+      <FullPath>C:\Users\Daulet\Documents\Keyman Developer\Projects\karachay_balkar__latin_\HISTORY.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_53e892b8b41cc4caece1cfd5ef21d6e7</ID>
+      <FullPath>C:\Users\Daulet\Documents\Keyman Developer\Projects\karachay_balkar__latin_\LICENSE.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_0730bb7c2e8f9ea2438b52e419dd86c9</ID>
+      <FullPath>C:\Users\Daulet\Documents\Keyman Developer\Projects\karachay_balkar__latin_\README.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_41f86f2693e860d20d4d330b54565c16</ID>
+      <FullPath>C:\Users\Daulet\Documents\Keyman Developer\Projects\karachay_balkar__latin_\karachay_balkar__latin_.keyboard_info</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_3945aa3a1b38e5510db705d9363fc397</ID>
+      <FullPath>C:\Users\Daulet\Documents\Keyman Developer\Projects\karachay_balkar__latin_\source\..\build\karachay_balkar__latin_.kmx</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_8f468c74a4c361ffab4177acdd54d656</ID>
+      <FullPath>C:\Users\Daulet\Documents\Keyman Developer\Projects\karachay_balkar__latin_\source\..\build\karachay_balkar__latin_.js</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_3b75bd77aae78e10fc73aed8b72267fc</ID>
+      <FullPath>C:\Users\Daulet\Documents\Keyman Developer\Projects\karachay_balkar__latin_\source\..\build\karachay_balkar__latin_.kvk</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_356e5d149c1e539356d72698c1e401a6</ID>
+      <FullPath>C:\Users\Daulet\Documents\Keyman Developer\Projects\karachay_balkar__latin_\source\welcome.htm</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_8da344c4cea6f467013357fe099006f5</ID>
+      <FullPath>C:\Users\Daulet\Documents\Keyman Developer\Projects\karachay_balkar__latin_\source\readme.htm</FullPath>
+    </FileState>
+  </FileStates>
+  <MRU>
+    <File>
+      <ID>id_MRU0</ID>
+      <Filename>karachay_balkar__latin_.kps</Filename>
+      <FileType>.kps</FileType>
+      <FullPath>C:\Users\Daulet\Documents\Keyman Developer\Projects\karachay_balkar__latin_\source\karachay_balkar__latin_.kps</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU1</ID>
+      <Filename>karachay_balkar_latin_package.kps</Filename>
+      <FileType>.kps</FileType>
+      <FullPath>C:\Users\Daulet\Documents\Keyman Developer\Projects\karachay_balkar_latin_package.kps</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU2</ID>
+      <Filename>karachay_balkar__latin_.kmn</Filename>
+      <FileType>.kmn</FileType>
+      <FullPath>C:\Users\Daulet\Documents\Keyman Developer\Projects\karachay_balkar__latin_\source\karachay_balkar__latin_.kmn</FullPath>
+    </File>
+  </MRU>
+</KeymanDeveloperProjectUser>
